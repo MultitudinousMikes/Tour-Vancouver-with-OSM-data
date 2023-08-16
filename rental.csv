@@ -1,0 +1,323 @@
+amenity,lat,lon,name
+bicycle_rental,49.2667096,-123.1047526,Ontario & 5th
+bicycle_rental,49.2656102,-123.1525342,7th & Arbutus
+bicycle_rental,49.2650786,-123.1194282,Heather & 7th
+bicycle_rental,49.2682673,-123.1478672,Cypress & 4th
+bicycle_rental,49.2642151,-123.1178195,8th & Ash
+bicycle_rental,49.268926,-123.1180979,Stamp's Landing
+bicycle_rental,49.2587688,-123.1152956,14th & Cambie
+bicycle_rental,49.2575397,-123.1484736,Cypress & 16th
+bicycle_rental,49.2896124,-123.1321458,Cardero & Robson
+bicycle_rental,49.2911956,-123.135216,Robson & Denman
+bicycle_rental,49.2881444,-123.1320198,Nicola & Robson
+bicycle_rental,49.2757002,-123.14245,Vanier Park
+bicycle_rental,49.2777729,-123.1208527,Nelson & Richards
+bicycle_rental,49.2796591,-123.1162932,Homer & Robson
+bicycle_rental,49.2826816,-123.107005,Abbott & Cordova
+bicycle_rental,49.2871914,-123.1129258,Canada Place
+bicycle_rental,49.2833805,-123.1310401,Bute & Comox
+bicycle_rental,49.2738549,-123.114558,Marinaside & Cooperage
+bicycle_rental,49.2606046,-123.1134246,12th & Yukon
+bicycle_rental,49.2695442,-123.1378336,Anderson & 2nd
+bicycle_rental,49.2774968,-123.114236,Beatty & Robson
+bicycle_rental,49.2761354,-123.1145509,Expo & Smithe
+bicycle_rental,49.2757543,-123.1243609,Richards & Davie
+bicycle_rental,49.2765028,-123.1189009,Nelson & Mainland
+bicycle_rental,49.2823937,-123.1185854,Granville & Georgia
+bicycle_rental,49.2780481,-123.1057008,Expo & Carrall
+bicycle_rental,49.2797995,-123.1079267,Keefer & Abbott
+bicycle_rental,49.2841519,-123.0999589,Alexander & Main
+bicycle_rental,49.2589687,-123.1393495,14th & Granville
+bicycle_rental,49.2666646,-123.1124352,5th & Yukon
+bicycle_rental,49.2771762,-123.1225069,Richards & Helmcken
+bicycle_rental,49.2735635,-123.1179519,Marinaside & Davie
+bicycle_rental,49.285273,-123.1417873,Bidwell & Beach
+bicycle_rental,49.2727532,-123.1477204,Cypress & Cornwall
+bicycle_rental,49.2622734,-123.12616,Oak & 10th
+bicycle_rental,49.25676,-123.1200251,Heather & 16th
+bicycle_rental,49.2617669,-123.1314892,Alder & 11th
+bicycle_rental,49.2713808,-123.0693525,Grant & Commercial
+bicycle_rental,49.2641012,-123.0707016,Grandview Bike Lane & Commercial
+bicycle_rental,49.2730625,-123.069863,Charles & Commercial
+bicycle_rental,49.266962,-123.0700463,4th & Commercial
+bicycle_rental,49.261412,-123.0701593,10th & Commercial
+bicycle_rental,49.274881,-123.0692936,Napier & Commercial
+bicycle_rental,49.2686186,-123.0700509,2nd & Commercial
+bicycle_rental,49.2632295,-123.0704772,8th & Commercial
+bicycle_rental,49.2736703,-123.1270617,Pacific & Richards
+bicycle_rental,49.2652855,-123.1381984,7th & Granville
+bicycle_rental,49.256832,-123.1052746,Ontario & 16th
+bicycle_rental,49.2702382,-123.106335,1st & Manitoba
+bicycle_rental,49.2702092,-123.109132,1st & Columbia
+bicycle_rental,49.2857921,-123.1209655,Burrard Station
+bicycle_rental,49.2781301,-123.1305274,Burrard & Drake
+bicycle_rental,49.2806129,-123.12478,Horny & Nelson
+bicycle_rental,49.2802978,-123.1352757,Harwood & Bute
+bicycle_rental,49.2803018,-123.1177147,Richards & Robson
+bicycle_rental,49.2799185,-123.1274469,Helmcken & Burrard
+bicycle_rental,49.2797102,-123.1100831,Dunsmuir & Beatty
+bicycle_rental,49.2852898,-123.1343648,Comox & Broughton
+bicycle_rental,49.289712,-123.1440153,Chilco & Beach
+bicycle_rental,49.2874692,-123.1420781,Davie & Beach
+bicycle_rental,49.2858689,-123.1272595,Bute & Robson
+bicycle_rental,49.2880281,-123.1421802,Morton & Denman
+bicycle_rental,49.2885183,-123.1393327,Comox & Denman
+bicycle_rental,49.2860026,-123.116602,Hornby & Pender
+bicycle_rental,49.2649024,-123.0812237,Glen & 6th
+bicycle_rental,49.2615005,-123.0893354,10th & Fraser
+bicycle_rental,49.2649223,-123.0794519,Keith & 6th
+bicycle_rental,49.2613191,-123.0852922,St Catherines & 10th
+bicycle_rental,49.2621862,-123.0814508,Glen & Broadway
+bicycle_rental,49.2623071,-123.0930671,St. George & Broadway
+bicycle_rental,49.2612322,-123.0737544,Woodland & 10th
+bicycle_rental,49.2796325,-123.1150076,Hamilton & Robson
+bicycle_rental,49.2735405,-123.1298518,Beach & Seymour
+bicycle_rental,49.2793015,-123.1017685,Keefer & Columbia
+bicycle_rental,49.2625924,-123.13888,10th & Granville
+bicycle_rental,49.2622196,-123.1093161,10th & Columbia
+bicycle_rental,49.2871315,-123.1186171,Pender & Burrard
+bicycle_rental,49.2620334,-123.1047242,10th & Ontario
+bicycle_rental,49.2700185,-123.1001259,1st & Main
+bicycle_rental,49.2717489,-123.1554804,York & Yew
+bicycle_rental,49.2683741,-123.157433,Vine & 4th
+bicycle_rental,49.2827328,-123.1220614,Robson & Hornby
+bicycle_rental,49.2744594,-123.1217156,Yaletown-Roundhouse Station
+bicycle_rental,49.2932024,-123.1386077,Chilco & Robson
+bicycle_rental,49.2846283,-123.1086152,Cambie & Water
+bicycle_rental,49.2918468,-123.1407852,Chilco & Barclay
+bicycle_rental,49.2592367,-123.1482565,Cypress & 14th
+bicycle_rental,49.2576909,-123.1532696,Arbutus & 16th
+bicycle_rental,49.2638169,-123.1052878,8th & Ontario
+bicycle_rental,49.2886688,-123.1182129,Shaw Tower
+bicycle_rental,49.2820425,-123.1330451,Bute & Davie
+bicycle_rental,49.2678774,-123.1458085,Burrard & 4th
+bicycle_rental,49.258866,-123.1435154,Pine & 14th
+bicycle_rental,49.2629314,-123.1433487,Pine & 10th
+bicycle_rental,49.2814372,-123.1398546,Sunset Beach West
+bicycle_rental,49.268217,-123.1030597,3rd & Quebec
+bicycle_rental,49.2636229,-123.1523941,Arbutus Greenway & Broadway
+bicycle_rental,49.2837789,-123.1360038,Broughton & Davie
+bicycle_rental,49.2762933,-123.1065399,Carrall & Seawall
+bicycle_rental,49.2760877,-123.1513261,Arbutus & McNicoll
+bicycle_rental,49.2759635,-123.1460073,Chestnut & McNicoll
+bicycle_rental,49.2815126,-123.1201536,Robson & Granville
+bicycle_rental,49.2823936,-123.1020273,Cordova & Columbia
+bicycle_rental,49.2611458,-123.0974366,11th & Kingsway
+bicycle_rental,49.2858157,-123.1378824,Cardero & Pendrell
+bicycle_rental,49.2592543,-123.120086,Heather & 14th
+bicycle_rental,49.2676184,-123.1277051,South False Creek Seawall
+bicycle_rental,49.2589114,-123.1095676,Columbia & 14th
+bicycle_rental,49.2650434,-123.1237691,7th & Laurel
+bicycle_rental,49.267233,-123.1531863,5th & Arbutus
+bicycle_rental,49.2709252,-123.1259935,David Lam Park - West
+bicycle_rental,49.2589484,-123.152613,Arbutus Greenway & 14th
+bicycle_rental,49.2584988,-123.1048152,14th & Ontario
+bicycle_rental,49.2831979,-123.1204825,Vancouver Art Gallery - North Plaza
+bicycle_rental,49.2856836,-123.1118234,Van City Bikes
+bicycle_rental,49.2636196,-123.099236,8th & Scotia
+bicycle_rental,49.2655497,-123.1002412,6th & Main
+bicycle_rental,49.2588295,-123.1313655,14th & Alder
+bicycle_rental,49.2979505,-123.1306813,Stanley Park - Information Booth
+bicycle_rental,49.2986558,-123.1212092,Stanley Park - Totem Poles
+bicycle_rental,49.2992547,-123.1303286,Stanley Park - Vancouver Aquarium
+bicycle_rental,49.2943135,-123.1487139,Stanley Park - Second Beach South
+bicycle_rental,49.2953393,-123.1504703,Stanley Park - Second Beach North
+bicycle_rental,49.284275,-123.1191619,
+bicycle_rental,49.2839768,-123.0652119,Triumph & Victoria
+bicycle_rental,49.2832115,-123.0703905,Commercial & Pandora
+bicycle_rental,49.2840577,-123.095047,Alexander & Dunlevy
+bicycle_rental,49.2839923,-123.0911062,Alexander & Railway
+bicycle_rental,49.2707276,-123.1461997,1st & Chestnut
+bicycle_rental,49.2785197,-123.1000524,Georgia & Main
+bicycle_rental,49.2781965,-123.1369457,Aquatic Centre
+bicycle_rental,49.266316,-123.1161009,Olympic Village Station
+bicycle_rental,49.2635448,-123.148081,Cypress & Broadway
+bicycle_rental,49.2808952,-123.130541,Thurlow & Pendrell
+bicycle_rental,49.286095,-123.1132237,Cordova & Granville
+bicycle_rental,49.2756105,-123.102698,Creekside Park North
+bicycle_rental,49.2901111,-123.12703,
+bicycle_rental,49.3100841,-123.0826619,Coastal Cogs
+bicycle_rental,49.2716914,-123.1042968,Ontario & Seawall
+bicycle_rental,49.270861,-123.1150229,Spyglass & Seawall
+bicycle_rental,49.2622822,-123.1142145,10th & Cambie
+bicycle_rental,49.275649,-123.1170024,Beatty & Nelson
+bicycle_rental,49.2905224,-123.136222,
+bicycle_rental,49.2791766,-123.119232,
+bicycle_rental,49.2565028,-123.0754794,15th & Knight
+bicycle_rental,49.2587815,-123.0927683,13th & St. George
+bicycle_rental,49.2620812,-123.1018465,10th & Main
+bicycle_rental,49.2653522,-123.1457925,Burrard & 7th
+bicycle_rental,49.2667647,-123.1411494,Arbutus & Fir
+bicycle_rental,49.2860549,-123.1241903,Georgia & Thurlow
+bicycle_rental,49.2634568,-123.0888362,8th & Fraser
+bicycle_rental,49.2752543,-123.1325611,Beach & Hornby
+bicycle_rental,49.2599774,-123.2511503,
+bicycle_rental,49.2890985,-123.121827,Cordova & Bute
+bicycle_rental,49.2736718,-123.1022542,Science World
+bicycle_rental,49.2801197,-123.0741648,McLean & Pender
+bicycle_rental,49.2737663,-123.0927082,Thornton & National
+bicycle_rental,49.2707346,-123.0736192,Woodland & Graveley
+bicycle_rental,49.2567266,-123.0965455,Prince Edward & 16th
+bicycle_rental,49.2567901,-123.0656984,15th & Victoria
+bicycle_rental,49.2652155,-123.0906761,6th & Carolina
+bicycle_rental,49.2581393,-123.096343,Prince Edward & 14th
+bicycle_rental,49.2652349,-123.0954559,6th & Prince Edward
+bicycle_rental,49.2809374,-123.1153534,Georgia & Homer
+bicycle_rental,49.2832577,-123.1422531,Beach & Cardero
+bicycle_rental,49.2733557,-123.1545317,Kits Beach
+bicycle_rental,49.3795295,-123.3325116,Bowen eBikes
+bicycle_rental,49.0906226,-123.0840493,Ray's Cycle Service
+bicycle_rental,49.2775071,-123.0812952,Glen & Union
+bicycle_rental,49.2793622,-123.0909562,Keefer & Princess
+bicycle_rental,49.2743143,-123.0984626,Station & National
+bicycle_rental,49.2855326,-123.1383859,
+bicycle_rental,49.2580237,-123.0833488,Windsor & 14th
+bicycle_rental,49.2579521,-123.0895274,14th & Fraser
+bicycle_rental,49.2611644,-123.0659828,Victoria & 10th
+bicycle_rental,49.2666307,-123.0658618,Victoria & 4th
+bicycle_rental,49.2801793,-123.0660122,Pender & Victoria
+bicycle_rental,49.2803186,-123.0700656,Pender & Commercial
+bicycle_rental,49.2877533,-123.1239048,Melville & Bute
+bicycle_rental,49.2773948,-123.0704165,Commercial & Adanac
+bicycle_rental,49.2776591,-123.0735579,Adanac & McLean
+bicycle_rental,49.2810403,-123.1044111,Carrall & Hastings
+bicycle_rental,49.2642309,-123.0738623,7th & Woodland
+bicycle_rental,49.2776095,-123.095793,Union & Dunlevy
+bicycle_rental,49.2802712,-123.0970897,Pender & Gore
+bicycle_rental,49.2806434,-123.084749,Campbell & Hastings
+bicycle_rental,49.2731187,-123.0731844,Charles & Woodland
+bicycle_rental,49.2666761,-123.0734696,Woodland & 4th
+bicycle_rental,49.2644331,-123.0851365,St Catherines & 7th
+bicycle_rental,49.2635225,-123.0956253,8th & Prince Edward
+bicycle_rental,49.2674701,-123.0907444,Carolina & Great Northern Way
+bicycle_rental,49.2546874,-123.1013355,18th & Main
+bicycle_rental,49.258781,-123.1271099,14th & Oak
+bicycle_rental,49.2876362,-123.1272215,Alberni & Jervis
+bicycle_rental,49.2527004,-123.101258,20th & Main
+bicycle_rental,49.2703309,-123.1027341,Quebec & 1st
+bicycle_rental,49.2651767,-123.1310129,7th & Alder
+bicycle_rental,49.2848699,-123.128767,Bute & Barclay
+bicycle_rental,49.2639535,-123.1126594,8th & Yukon
+bicycle_rental,49.282386,-123.1245697,Smithe & Burrard
+bicycle_rental,49.2777049,-123.0917253,Princess & Union
+bicycle_rental,49.2758553,-123.0719018,Britannia Parking Lot
+bicycle_rental,49.1946439,-123.1309839,
+bicycle_rental,49.2619701,-123.0973416,10th & Kingsway
+bicycle_rental,49.2772762,-123.0873497,Hawks & Union
+bicycle_rental,49.2792153,-123.0874912,Keefer & Hawks
+bicycle_rental,49.2706381,-123.1348612,Granville Island
+bicycle_rental,49.2844582,-123.1111846,Richards & Cordova
+bicycle_rental,49.3026103,-123.1556398,Stanley Park - Third Beach Parking Lot
+bicycle_rental,49.2584159,-123.1007729,
+car_sharing,49.2729146,-123.1539774,
+car_sharing,49.2623612,-123.1133849,
+car_sharing,49.262368,-123.1139533,
+car_sharing,49.2606351,-123.1133584,
+car_sharing,49.280558,-123.1345339,
+car_sharing,49.2792802,-123.122108,
+car_sharing,49.288517,-123.120013,
+car_sharing,49.2801608,-123.131798,
+car_sharing,49.2922595,-123.1436289,
+car_sharing,49.2916382,-123.1417864,
+car_sharing,49.2845547,-123.1364417,
+car_sharing,49.2789626,-123.132118,
+car_sharing,49.2823816,-123.131219,
+car_sharing,49.2697563,-123.102383,
+car_sharing,49.2029981,-122.9142322,
+car_sharing,49.2116471,-122.920587,
+car_sharing,49.2744728,-123.1164153,
+car_sharing,49.2826694,-123.131353,
+car_sharing,49.2625175,-123.135242,
+car_sharing,49.2881731,-123.14088,
+car_sharing,49.2801479,-123.1260259,
+car_sharing,49.2667304,-123.1159932,
+car_sharing,49.2663226,-123.12727,
+car_sharing,49.2725154,-123.1360606,
+car_sharing,49.2762126,-123.1352347,
+car_sharing,49.2037428,-122.9141312,
+car_sharing,49.2750737,-122.8002837,
+car_sharing,49.254242,-123.2330308,
+car_sharing,49.2535042,-123.2344079,
+car_sharing,49.26125,-123.2406722,
+car_sharing,49.2592405,-123.2461305,
+car_sharing,49.2583699,-123.235868,
+car_sharing,49.2743709,-123.1167987,
+car_sharing,49.2626624,-123.1141661,
+car_sharing,49.2626406,-123.1138547,
+car_sharing,49.2624998,-123.1137717,
+car_sharing,49.2625113,-123.1136974,
+car_sharing,49.2623488,-123.1132159,
+car_sharing,49.2606885,-123.1145885,
+car_sharing,49.2666761,-123.1161025,
+car_sharing,49.2513431,-123.2359782,
+car_sharing,49.2654987,-123.2450025,
+car_sharing,49.2723414,-123.1004578,
+car_sharing,49.2816641,-123.115876,
+car_sharing,49.2811724,-123.109819,
+car_sharing,49.291036,-123.1449559,
+car_sharing,49.2611822,-123.069092,
+car_sharing,49.2323416,-122.882883,
+car_sharing,49.2323376,-122.883123,
+car_sharing,49.2721016,-123.1004781,
+car_sharing,49.2690556,-123.2481259,Evo
+car_sharing,49.2626754,-123.2555288,Evo
+car_sharing,49.2600839,-123.2494134,Evo
+car_sharing,49.2798985,-123.112155,
+car_sharing,49.2863451,-123.1267474,
+car_sharing,49.2854037,-123.128351,
+car_sharing,49.2874403,-123.130438,
+car_sharing,49.263623,-123.0911188,
+car_sharing,49.2825835,-123.110565,
+car_sharing,49.1699839,-123.149251,
+car_sharing,49.2864118,-123.1327968,
+car_sharing,49.2748817,-123.1010508,
+car_sharing,49.2575999,-123.0964243,
+car_sharing,49.2738642,-123.121517,
+car_sharing,49.2848428,-123.130385,
+car_sharing,49.2763408,-123.134445,
+car_sharing,49.2771502,-122.8448238,
+car_sharing,49.2738295,-123.1212473,
+car_sharing,49.2827913,-123.1272689,
+car_sharing,49.2846237,-123.1273528,
+car_sharing,49.2759973,-123.132089,
+car_sharing,49.2631606,-123.070282,
+car_sharing,49.275118,-123.123556,
+car_sharing,49.3097298,-123.075914,
+car_sharing,49.3103156,-123.076243,
+car_sharing,49.260943,-123.069093,
+car_sharing,49.273329,-123.124441,
+car_sharing,49.2727627,-123.1201061,
+car_sharing,49.273465,-123.117347,
+car_sharing,49.273254,-123.116607,
+car_sharing,49.2602188,-123.1157907,
+car_sharing,49.2600109,-123.1157896,
+car_sharing,49.273105,-123.1266419,
+car_sharing,49.2747215,-123.1193784,
+car_sharing,49.2756737,-123.1150027,
+car_sharing,49.2733182,-123.128192,
+car_sharing,49.2774301,-123.1198879,
+car_sharing,49.2798028,-123.112333,
+car_sharing,49.2846841,-123.0951972,
+car_sharing,49.212622,-122.9592936,
+car_sharing,49.2783553,-123.1232166,
+car_sharing,49.2801574,-123.033793,
+car_sharing,49.2760811,-123.130605,
+car_sharing,49.2785513,-123.1304479,
+car_sharing,49.2734895,-123.129792,
+car_sharing,49.203108,-122.914264,
+car_sharing,49.2825629,-123.1384844,
+car_sharing,49.2017971,-122.9120544,
+car_sharing,49.2823028,-123.130831,
+boat_rental,49.3024159,-122.9553282,Cates Park Paddling Centre
+boat_rental,49.2643379,-122.6910749,Pitt Meadows Paddle Club (PMPC)
+boat_rental,49.2717056,-123.136632,Vancouver Water Adventures
+boat_rental,49.2858405,-123.1430954,
+boat_rental,49.2722956,-123.136955,Bonnie Lee Charters
+boat_rental,49.2710737,-123.136511,Vancouver Boat Rentals
+boat_rental,49.280713,-122.8495116,Rocky Point Kayak
+boat_rental,49.3223456,-122.8559639,Buntzen Lake Rentals
+boat_rental,49.2749952,-123.1992955,Jericho Beach Kayak Centre
+boat_rental,49.2755726,-123.201351,Windsure Adventure Watersports
+boat_rental,49.276403,-123.1524904,Vancouver Water Adventures
+boat_rental,49.290514,-122.4900304,
+boat_rental,49.2349562,-122.9651059,Deer Lake Boat Rentals

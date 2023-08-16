@@ -1,0 +1,107 @@
+amenity,lat,lon,name
+arts_centre,49.2853872,-122.7909589,Evergreen Cultural Centre
+arts_centre,49.2826068,-123.108081,Goldcorp Centre for the Arts
+arts_centre,49.2406991,-122.96951,Shadbolt Centre For the Arts
+arts_centre,49.2787749,-123.1146836,The Post at 750
+arts_centre,49.0660316,-122.3776476,Busybee Art Studio
+arts_centre,49.2703704,-123.133298,Arts Umbrella
+arts_centre,49.2619732,-122.78031,Leigh Square Community Arts Village
+arts_centre,49.2782799,-123.121185,Contemporary Art Gallery
+arts_centre,49.0241004,-123.0680384,Tsawwassen Arts Centre
+arts_centre,49.3375182,-123.1013939,4 Cats Arts Studio
+arts_centre,49.2392058,-122.9687563,Burnaby Art Council
+arts_centre,49.2667256,-123.096764,Aurora Digitalis
+arts_centre,49.2838008,-123.091207,Hfour
+college,49.0516172,-122.3155398,MTI Community College
+college,49.2839535,-123.115639,Greystone College Vancouver
+college,49.0520682,-122.3124487,IGE School
+college,49.2876052,-123.124216,Ashton College
+college,49.2611173,-123.1168568,Blanche Macdonald Centre
+college,49.2846393,-123.1231492,Canadian College
+college,49.28166,-123.127029,Vanwest College
+college,49.2812082,-123.114825,Lighthouse Labs
+college,49.2043583,-122.8815972,CDI College Surrey
+college,49.0548502,-122.3176332,"Kosmetae Academy of Spa, Aesthetics & Hair Design"
+college,49.0549813,-122.3180851,Legends Academy
+college,49.2795915,-123.12278,New Image College
+college,49.2724917,-123.0956922,Columbia College North Campus
+college,49.0363415,-122.2654756,The Acting Academy
+college,49.0495968,-122.2924802,Sprott Shaw College - Abbotsford Campus
+college,49.2633303,-123.1126367,Gateway College
+college,49.1858393,-122.8005874,Success Surrey
+college,49.2791407,-123.1167124,Canada Capstone College
+college,49.0476642,-122.3415506,Western Community College Abbotsford Campus
+college,49.0407569,-122.3379966,Vancouver Career College
+college,49.2698201,-123.1377596,Pacific Institute Of Culinary Arts
+college,49.2104872,-122.9337499,Sprott-Shaw Community College
+college,49.2607052,-123.1013237,Northwest Culinary Academy of Vancouver
+college,49.0509227,-122.3370761,Academy of Learning Career College Abbotsford Campus
+college,49.1056553,-122.6514734,Academy of Learning Career College Langley Campus
+college,49.0505463,-122.3343072,Academy of Learning
+college,49.2738086,-122.9122497,Fraser International College
+college,49.0690432,-122.3589145,Western Community College
+college,49.2017484,-122.9845702,Dominion Herbal College
+college,49.2017128,-122.9846669,Vancouver Animation School
+college,49.2280827,-122.9967068,Create Career College
+college,49.1056054,-122.6515374,Fraser Valley Continuing Education
+university,49.2792244,-123.0995102,UBC Learning Exchange
+university,49.1873731,-122.849479,Simon Fraser University Surrey Campus
+university,49.1713682,-123.139766,Trinity Western University - Richmond
+university,49.2844778,-123.112349,Simon Fraser University - Vancouver Campus
+university,49.2837148,-123.1140662,Adler University
+university,49.2824032,-123.1085513,Simon Fraser University
+university,49.2824825,-123.1214006,UBC Robson Square
+university,49.1764282,-123.1334473,Trinity Western University
+university,49.229627,-123.002003,Alexander College
+university,49.2805472,-123.1158204,Northeastern University — Vancouver
+library,49.2196414,-123.0668448,VPL Fraserview Branch
+library,49.1860678,-122.9435292,Queensborough Library
+library,49.0371698,-122.311736,Library Services
+library,49.1690817,-122.580001,Fort Langley Library
+library,49.281056,-123.1000064,VPL Carnegie Branch
+library,49.1319722,-123.0928771,Richmond Public Library
+library,49.0880524,-123.0830061,Ladner Pioneer Library
+library,49.2538168,-122.898544,Cameron Library
+library,49.1551977,-122.7797132,Fleetwood Library
+library,49.13037,-122.8401405,Newton Library
+library,49.0351454,-122.8014365,Semiahmoo Library
+library,49.1204009,-122.6596623,Muriel Arnason Library
+library,49.2294991,-123.090399,Vancouver Public Library South Hill Branch
+library,49.2332919,-123.156131,Vancouver Public Library Kerrisdale Branch
+library,49.1835995,-123.0946044,Richmond Public Library - Cambie Branch
+library,49.0615079,-122.3166064,Ray and Millie Silver Aboriginal Library
+library,49.2809809,-123.0888583,Vancouver Public Library - nə́c̓aʔmat ct Strathcona Branch
+library,49.0896237,-122.6116748,Murrayville Library
+library,49.12546,-123.1783832,Richmond Public Library
+library,49.2826072,-123.0006149,McGill Library
+library,49.2628124,-123.137505,Firehall Branch
+library,49.1038139,-122.6570565,City of Langley Library
+library,49.2491218,-123.075655,VPL Kensington Branch
+library,49.2642773,-123.100343,Mount Pleasant Branch
+library,49.3363927,-123.038629,North Vancouver District Public Library - Lynn Valley
+library,49.2905053,-123.13656,VPL Joe Fortes Branch
+library,49.2440111,-123.108171,VPL Terry Salman Branch
+library,49.2103246,-123.1402111,VPL Marpole Branch
+library,49.2749646,-123.0707081,VPL Britannia Branch
+library,49.2808807,-123.050185,Hastings Branch
+library,49.0285295,-122.2833678,UFV Library
+library,49.2825169,-122.8296495,Port Moody Library
+library,49.0749371,-122.6684308,Brookswood Library
+library,49.2493863,-123.0007303,
+library,49.2612513,-123.2491887,Computer Science Reading Room
+library,49.0265835,-123.0710778,Tsawwassen Library
+library,49.2189889,-123.039568,Vancouver Public Library - Champlain Heights
+library,49.2220694,-122.6901208,Pitt Meadows Library
+library,49.1640187,-123.1415701,Richmond Public Library (Brighouse)
+library,49.1354428,-122.3042796,Mission Community Archives
+library,49.0431845,-122.3006352,Abbotsford Community Library
+library,49.1355227,-122.303531,Mission Library
+library,49.0538924,-122.3288971,Clearbrook Library
+library,49.2647206,-123.1687156,VPL Kitsilano Branch
+library,49.1880726,-122.8498963,Fraser Library
+library,49.3373362,-123.1028994,North Vancouver District Public Library — Capilano Branch
+library,49.2287379,-123.1168697,Multimedia Library AFV
+library,49.1564259,-122.9118196,George Mackie Library
+library,49.1633518,-122.6411234,Walnut Grove Library
+library,49.219939,-122.599947,Maple Ridge Public Library
+library,49.1373677,-122.8850613,Strawberry Hill Library
